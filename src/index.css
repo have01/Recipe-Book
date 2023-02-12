@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+ 
+  min-height: 100vh;
+  background-color: #fff;
+}
+.box{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
