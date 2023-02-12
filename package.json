@@ -2,8 +2,6 @@
   "name": "ReactJS-TailwindCSS-StarterFiles",
   "version": "1.0.0",
   "main": "index.js",
-  
-
   "license": "MIT",
   "dependencies": {
     "@auth0/auth0-react": "^2.0.0",
